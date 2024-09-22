@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eljotero&label=Profile%20views&color=0e75b6&style=flat" alt="eljotero" /> </p>
 
-- 🔭 I’m currently working on **projects for university courses**
-
-- 🌱 I’m currently learning **React.js and Next.js**
-
 - 📫 How to reach me **aleksander.janicki002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
